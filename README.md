@@ -3,7 +3,8 @@
 🚀 **Healthcare Data Analyst | AI/ML Researcher | NLP in HealthTech**  
 🔬 **Bridging Data, AI, and Healthcare to Drive Insights and Innovation**  
 
-![Chandra's GitHub Banner](https://drive.google.com/file/d/1501FpheJAoY7WntmTqgdMY0YWwzqE4oA/view?usp=sharing)
+![banner](https://github.com/user-attachments/assets/66456a3b-cec5-4172-a212-ad64afa27f4c)
+
 
 ---
 
