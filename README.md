@@ -3,8 +3,7 @@
 🚀 **Healthcare Data Analyst | AI/ML Researcher | NLP in Healthcare**  
 🔬 **Bridging Data, AI, and Healthcare to Drive Insights and Innovation**  
 
-![banner](https://github.com/user-attachments/assets/66456a3b-cec5-4172-a212-ad64afa27f4c)
-
+![banner](https://github.com/user-attachments/assets/312c4a41-d9dc-4f48-89bd-5e52fa765969)
 
 ---
 
