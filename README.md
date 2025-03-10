@@ -38,7 +38,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-%234ea94b.svg?style=for-the-badge&logo=openai&logoColor=white)  
 
 ### 🏥 Healthcare IT & Data  
-![FHIR](https://img.shields.io/badge/FHIR-%23FF4500.svg?style=for-the-badge&logo=fhir&logoColor=white) 
+![HL7 FHIR](https://hl7.org/fhir/assets/images/fhir-logo-www.png) 
 ![SNOMED](https://img.shields.io/badge/SNOMED-%230072C6.svg?style=for-the-badge&logo=snomed&logoColor=white) 
 ![LOINC](https://img.shields.io/badge/LOINC-%23D00000.svg?style=for-the-badge&logo=loinc&logoColor=white) 
 ![ICD](https://img.shields.io/badge/ICD-%2329B5E8.svg?style=for-the-badge&logo=icd&logoColor=white)  
