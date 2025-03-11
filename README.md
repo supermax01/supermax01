@@ -56,7 +56,7 @@
 ![LLaMA 3](https://img.shields.io/badge/LLaMA%203-%230072C6.svg?style=for-the-badge&logo=meta&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-%23EA4335.svg?style=for-the-badge&logo=google&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-%230074C2.svg?style=for-the-badge&logo=lmstudio&logoColor=white)
-![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-%234C8EAF.svg?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%234C8EAF.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-%23FF5733.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
