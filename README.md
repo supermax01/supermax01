@@ -94,7 +94,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/chandra-vikram/)
 - [Email](mailto:chandravikram10@outlook.com)
-- [Portfolio](https://your-portfolio-site.com) *(if available)*
 
 ---
 
