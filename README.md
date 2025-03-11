@@ -37,8 +37,8 @@
 ![SNOMED](https://img.shields.io/badge/SNOMED-%230072C6.svg?style=for-the-badge&logo=snomed&logoColor=white)
 ![LOINC](https://img.shields.io/badge/LOINC-%23D00000.svg?style=for-the-badge&logo=loinc&logoColor=white)
 ![ICD](https://img.shields.io/badge/ICD-%2329B5E8.svg?style=for-the-badge&logo=icd&logoColor=white)
-![HL7](https://img.shields.io/badge/FHIR-%23FF4500.svg?style=for-the-badge&logo=fhir&logoColor=white)
-![RxNorm](https://img.shields.io/badge/FHIR-%23FF4500.svg?style=for-the-badge&logo=fhir&logoColor=white)
+![HL7](https://img.shields.io/badge/HL7-%23FF4500.svg?style=for-the-badge&logo=fhir&logoColor=white)
+![RxNorm](https://img.shields.io/badge/RxNorm-%23FF4500.svg?style=for-the-badge&logo=fhir&logoColor=white)
 
 
 ### Data Visualization & BI
