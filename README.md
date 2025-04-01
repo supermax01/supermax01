@@ -73,15 +73,6 @@
 - Integrated HL7 FHIR API for analyzing EHR data and providing personalized insights.
 - Reduced inference latency by 35% through optimized model fine-tuning.
 
-### Predicting 30-Day Readmissions in Diabetic Patients
-- Developed predictive models (Logistic Regression, XGBoost, SVM, KNN) for readmission risk assessment.
-- Processed data from over 100K patient records for model training.
-- Created interactive dashboards using Power BI for visualizing clinical trends.
-
-### Heart Disease Risk Prediction
-- Conducted exploratory data analysis on patient vitals (age, blood pressure, cholesterol).
-- Developed a logistic regression model with an AUC-ROC score of 0.76.
-- Produced visualizations using ggplot2 and Seaborn to illustrate findings.
 
 ---
 
