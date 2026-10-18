@@ -38,7 +38,7 @@ clinicians firmly in the loop.
 | [**hapi_flutter**](https://github.com/supermax01/hapi_flutter) | FHIR `Patient/$everything` demo against a HAPI FHIR server, typed Dart models, SNOMED / LOINC sample data | Flutter · HAPI FHIR · Docker |
 | [**Clinical Frontier**](https://chandravikram.com) | Working notebook of 18 preliminary manuscripts: FHIR infrastructure, clinical benchmarks, safety and alignment, voice and telehealth agents, knowledge graphs, retrieval evaluation | — |
 
-**Recognition:** finalist, HL7 FHIR App Showcase at the AMIA 2024 Annual Symposium (San Francisco).
+**Recognition:** finalist, [2024 AMIA/HL7 FHIR App Competition](https://amia.org/education-events/amia-2024-annual-symposium/fhir-app) at the AMIA 2024 Annual Symposium, San Francisco — *Carepal for SMART Liver*, integrated liver-cirrhosis care.
 
 ## Toolbox
 
