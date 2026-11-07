@@ -1,7 +1,9 @@
 # Chandra Vikram Singh
 
-Healthcare AI engineer — building AI systems for clinical care and HL7 FHIR interoperability.
+Healthcare AI engineer working across the breadth of clinical AI — FHIR interoperability, benchmarks and evaluation, voice and telehealth agents, knowledge graphs, and model alignment — with safety and rigorous evaluation built into every stage.
 
-MS in Health Informatics, Indiana University Indianapolis.
+MS in Health Informatics, Indiana University · pharmaceutical sciences before that · presented at the AMIA FHIR App Challenge.
 
-[chandravikram.com](https://chandravikram.com) · [LinkedIn](https://www.linkedin.com/in/chandra-vikram) · chandravikram10@outlook.com
+18 projects, each with a preliminary manuscript: **[chandravikram.com](https://chandravikram.com)**
+
+[LinkedIn](https://www.linkedin.com/in/chandra-vikram) · chandravikram10@outlook.com
