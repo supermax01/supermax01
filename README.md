@@ -2,7 +2,7 @@
 
 Healthcare AI/ML engineer working across the breadth of clinical AI — benchmarks and evaluation, RAG, voice and telehealth agents, FHIR interoperability, knowledge graphs, and LLM fine-tuning and alignment — with safety and rigorous evaluation built into every stage.
 
-I'm especially passionate about local healthcare AI — private, on-device applications and workflows that keep patient data on the clinician's or patient's own hardware.
+I build for both cloud and on-device deployment, with a particular interest in privacy-preserving local AI — healthcare applications and workflows where patient data never has to leave the device.
 
 MS in Health Informatics, Indiana University, 2025  
 BS in Pharmaceutical Sciences
