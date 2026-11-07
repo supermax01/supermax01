@@ -1,6 +1,6 @@
-# Chandra Vikram Singh
+# Chandra Vikram
 
-Healthcare AI engineer working across the breadth of clinical AI — FHIR interoperability, benchmarks and evaluation, voice and telehealth agents, knowledge graphs, and model alignment — with safety and rigorous evaluation built into every stage.
+Healthcare AI engineer working across the breadth of clinical AI — benchmarks and evaluation, voice and telehealth agents, FHIR interoperability, knowledge graphs, and model alignment — with safety and rigorous evaluation built into every stage.
 
 MS in Health Informatics, Indiana University · pharmaceutical sciences before that · presented at the AMIA FHIR App Challenge.
 
